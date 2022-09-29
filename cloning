@@ -1,0 +1,5 @@
+create folder(portfolio) desktop>>type cmd on path>> github>> portfolio repository>> 
+code(green)>> copy https>> (on cmd)git clone paste https>> goto folder portfolio
+(appears the github repository as folder)>> open pycharm>> file open portfolio folder
+>>create new file/edit>> commit>> commit and push>> push>> goto github page >>.
+
